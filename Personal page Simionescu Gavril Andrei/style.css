@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.back {
+  background-color: #1a374d;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 40%;
+  border-radius: 7%;
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 85%;
+}
+
+img {
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+.imagine {
+  text-align: center;
+}
+
+.profile-text {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
+
+.name {
+  font-family: "Roboto";
+}
+
+.ocupatie {
+  margin-top: 10px;
+  font-family: "Roboto";
+  margin-bottom: 20px;
+}
+.hobby {
+  max-width: 200px;
+  min-height: 100px;
+  /* background-color: grey; */
+  margin: auto;
+}
+.title {
+  font-size: 20px;
+}
+
+.head-hobby {
+  margin-bottom: 20px;
+}
+
+.img-hobby1 {
+  margin-top: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.img-hobby2 {
+  margin-top: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.img-hobby3 {
+  margin-top: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.img-hobby4 {
+  margin-top: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.hb {
+  /* background-color: #136b3a; */
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.txt-lbl1 {
+  margin-top: 7px;
+}
+
+.txt-lbl2 {
+  margin-top: 7px;
+}
+
+.txt-lbl3 {
+  margin-top: 7px;
+}
+
+.txt-lbl4 {
+  margin-top: 7px;
+}
+
+/* contact */
+.contact {
+  /* background-color: gray; */
+  margin-top: 12px;
+}
+.img-facebook {
+  margin-top: 0;
+  width: 30px;
+  height: 30px;
+}
+.img-instagram {
+  margin-top: 0;
+  width: 30px;
+  height: 30px;
+}
+.img-git {
+  margin-top: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.img-mail {
+  margin-top: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.title-contact {
+  font-size: 25px;
+}
